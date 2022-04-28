@@ -1,0 +1,38 @@
+body {
+width: 1080px;
+}
+
+header{
+
+display:block;
+width: 1080px;
+height: 200px;
+margin: 0px;
+
+}
+
+h1 {
+display:block;
+
+text-align: center;
+}
+
+.skills{
+display: flex;
+justify-content: center;
+width: 1080px;
+height: 200px;
+flex-direction: row;
+text-align: center;
+margin: 0px;
+}
+
+
+
+h2{
+text-align: center;
+}
+
+hr{
+
+
